@@ -39,13 +39,13 @@ Cada desenvolvedor é uma estrela em ascensão! Se você adora moldar modelos, a
 - **Idioma do Código**: Inglês
 - **Versionamento**: Git/GitHub
 - **Spring Security**
-- **Maven**: Utilizado
+- **Maven**
 - **Spring Web**
 - **Spring Dev Tools**
 - **Spring JPA**
 - **Lombok**
 - **Postman**
-- **Jakarta Bean Validation**: Utilizado para validação de dados (a ser discutido com a equipe de front-end)
+- **Jakarta Bean Validation**
 
 ## 🌟 Faça Parte Dessa Jornada
 
